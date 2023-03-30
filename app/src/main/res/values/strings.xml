@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">dishass</string>
+
+    // Financial assistance for disabled person
+
+    <string name="financecategory">Financial Assistance for disabled person
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="financeDesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="financeeligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="financebenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+
+    //Financial assistance to self-employed for train disabled person
+    <string name="finance2category">Financial assistance to self-employed for train disabled person
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="finance2Desc">SFacilitate purchase of equipment for those disabled person who are completely trend from government institutes to start their own business</string>
+    <string name="finance2eligibility">1. Applicant must complete their vocational training in government institution
+2. Applicant should have minimum 40% disability
+3. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="finance2benefits">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
+
+
+</string>
+
+
+    // Loan Scheme
+
+    <string name="loancategory">Financial Assistance for disabled person
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="loandesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="loaneligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="loanbenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    //education through government institute
+    <string name="educationcategory">
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="educationdesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="educationeligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="educationbenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    //Special school for disabled
+    <string name="education2category">
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="education2desc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="education2eligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="education2benefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="homecategory">
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="homedesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="homeligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="homebenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="marriagecategory">
+Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="marriagedesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="marriageeligibility">1. Applicant should have minimum 40% disability
+2. Applicant should be domicile in Maharashtra
+
+</string>
+    <string name="marriagebenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="pensioncategory">
+All category disabled person</string>
+    <string name="pensiondesc">Pension scheme</string>
+    <string name="pensioneligibility">Under the schema ₹600 per month is given to each beneficiary
+</string>
+    <string name="pensionbenefits">A disable person in age of 18265 years and having 80% disability is eligible under the schem
+
+        a. He or she is entitled to
+        receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
+
+</string>
+
+
+</resources>
