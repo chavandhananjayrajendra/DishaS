@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         D5.setOnClickListener((View.OnClickListener) this);
         D6.setOnClickListener((View.OnClickListener) this);
     }
+
     public void onClick(View view) {
         Intent i;
         switch (view.getId()) {
@@ -56,6 +57,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(i);
                 break;
         }
+
 
 
     }}
