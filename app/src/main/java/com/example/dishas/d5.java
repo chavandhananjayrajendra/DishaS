@@ -34,11 +34,14 @@ public class d5 extends AppCompatActivity {
         int[] eligibility4List = {R.string.marriageeligibility};
         int[] desc4List = {R.string.marriagedesc};
         int[] benefit4List ={R.string.marriagebenefits};
+        int[] apply4List={R.string.marriageapply};
+        int[] documents4List={R.string.marriagedocuments};
+        int[] link4List={R.string.marriagewithlink};
 
         String[] name4List = {"marriage"};
 
         for (int i = 0; i < image4List.length; i++){
-            listData4 = new ListData(name4List[i],category4List[i],eligibility4List[i],desc4List[i],benefit4List[i],image4List[i]);
+            listData4 = new ListData(name4List[i],category4List[i],eligibility4List[i],desc4List[i],benefit4List[i],apply4List[i],documents4List[i],link4List[i],image4List[i]);
             dataArrayList4.add(listData4);
         }
         listAdapter4 = new ListAdapter(d5.this, dataArrayList4);
@@ -53,6 +56,9 @@ public class d5 extends AppCompatActivity {
                 intent.putExtra("eligibility",eligibility4List[i]);
                 intent.putExtra("objective", desc4List[i]);
                 intent.putExtra("benefits",benefit4List[i]);
+                intent.putExtra("apply",apply4List[i]);
+                intent.putExtra("documents",documents4List[i]);
+                intent.putExtra("link",link4List[i]);
                 intent.putExtra("image", image4List[i]);
                 startActivity(intent);
             }

@@ -20,4 +20,7 @@ public class StartActivity extends AppCompatActivity {
     public void btnAboutUs(View view){
         Intent intent = new  Intent(this,aboutus.class);
         startActivity(intent);
-}}
+
+}
+
+}

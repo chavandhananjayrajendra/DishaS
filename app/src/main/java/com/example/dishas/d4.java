@@ -33,11 +33,14 @@ public class d4 extends AppCompatActivity {
         int[] eligibility3List = {R.string.homeligibility};
         int[] desc3List = {R.string.homedesc};
         int[] benefit3List ={R.string.homebenefits};
+        int[] apply3List={R.string.homeapply};
+        int[] documents3List={R.string.homedocuments};
+        int[] link3List={R.string.homewithlink};
 
         String[] name3List = {"intellectually"};
 
         for (int i = 0; i < image3List.length; i++){
-            listData3 = new ListData(name3List[i],category3List[i],eligibility3List[i],desc3List[i],benefit3List[i],image3List[i]);
+            listData3 = new ListData(name3List[i],category3List[i],eligibility3List[i],desc3List[i],benefit3List[i],apply3List[i],documents3List[i],link3List[i],image3List[i]);
             dataArrayList3.add(listData3);
         }
         listAdapter3 = new ListAdapter(d4.this, dataArrayList3);
@@ -52,6 +55,10 @@ public class d4 extends AppCompatActivity {
                 intent.putExtra("eligibility",eligibility3List[i]);
                 intent.putExtra("objective", desc3List[i]);
                 intent.putExtra("benefits",benefit3List[i]);
+                intent.putExtra("apply",apply3List[i]);
+                intent.putExtra("documents",documents3List[i]);
+                intent.putExtra("link",link3List[i]);
+
                 intent.putExtra("image", image3List[i]);
                 startActivity(intent);
             }

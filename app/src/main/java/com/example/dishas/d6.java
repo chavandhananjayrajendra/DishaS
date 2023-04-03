@@ -33,11 +33,14 @@ public class d6 extends AppCompatActivity {
         int[] eligibility5List = {R.string.pensioneligibility};
         int[] desc5List = {R.string.pensiondesc};
         int[] benefit5List ={R.string.pensionbenefits};
+        int[] apply5List={R.string.pensionapply};
+        int[] documents5List={R.string.pensiondocuments};
+        int[]link5List={R.string.pensionwithlink};
 
         String[] name5List = {"INDIRAGANDHIPENSIONSCHEME"};
 
         for (int i = 0; i < image5List.length; i++){
-            listData5 = new ListData(name5List[i],category5List[i],eligibility5List[i],desc5List[i],benefit5List[i],image5List[i]);
+            listData5 = new ListData(name5List[i],category5List[i],eligibility5List[i],desc5List[i],benefit5List[i],apply5List[i],documents5List[i],link5List[i],image5List[i]);
             dataArrayList5.add(listData5);
         }
         listAdapter5 = new ListAdapter(d6.this, dataArrayList5);
@@ -52,6 +55,9 @@ public class d6 extends AppCompatActivity {
                 intent.putExtra("eligibility",eligibility5List[i]);
                 intent.putExtra("objective", desc5List[i]);
                 intent.putExtra("benefits",benefit5List[i]);
+                intent.putExtra("apply",apply5List[i]);
+                intent.putExtra("documents",documents5List[i]);
+                intent.putExtra("link",link5List[i]);
                 intent.putExtra("image", image5List[i]);
                 startActivity(intent);
             }

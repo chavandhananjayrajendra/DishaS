@@ -28,11 +28,14 @@ public class d2 extends AppCompatActivity {
         int[] eligibility1List = {R.string.loaneligibility};
         int[] desc1List = {R.string.loandesc};
         int[] benefit1List ={R.string.loanbenefits};
+        int[] apply1List={R.string.loanapply};
+        int[] documents1List={R.string.loandocuments};
+        int[] link1List = {R.string.loanwithlink};
 
         String[] name1List = {"differentloanscheme"};
 
         for (int i = 0; i < image1List.length; i++){
-            listData1 = new ListData(name1List[i],category1List[i],eligibility1List[i],desc1List[i],benefit1List[i],image1List[i]);
+            listData1 = new ListData(name1List[i],category1List[i],eligibility1List[i],desc1List[i],benefit1List[i],apply1List[i],documents1List[i],link1List[i],image1List[i]);
             dataArrayList1.add(listData1);
         }
         listAdapter1 = new ListAdapter(d2.this, dataArrayList1);
@@ -47,6 +50,9 @@ public class d2 extends AppCompatActivity {
                 intent.putExtra("eligibility",eligibility1List[i]);
                 intent.putExtra("objective", desc1List[i]);
                 intent.putExtra("benefits",benefit1List[i]);
+                intent.putExtra("apply",apply1List[i]);
+                intent.putExtra("documents",documents1List[i]);
+                intent.putExtra("link",link1List[i]);
                 intent.putExtra("image", image1List[i]);
                 startActivity(intent);
             }

@@ -15,6 +15,17 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
+    <string name="financeapply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="financedocuments">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+
 
     //Financial assistance to self-employed for train disabled person
     <string name="finance2category">Financial assistance to self-employed for train disabled person
@@ -26,6 +37,14 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 </string>
     <string name="finance2benefits">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
+
+
+</string>
+    <string name="finance2apply">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
+
+
+</string>
+    <string name="finance2documents">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
 
 
 </string>
@@ -45,6 +64,16 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
+    <string name="loanapply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="loandocuments">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
     //education through government institute
     <string name="educationcategory">
 Visually impaired, hearing impaired, orthopedically handicapped</string>
@@ -54,6 +83,16 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 </string>
     <string name="educationbenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="educationapply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="educationdocuments">1. Free education
 2. Free facilities of food, shelter, clothing
 
 
@@ -71,6 +110,16 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
+    <string name="education2apply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="education2documents">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
     <string name="homecategory">
 Visually impaired, hearing impaired, orthopedically handicapped</string>
     <string name="homedesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
@@ -79,6 +128,16 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 </string>
     <string name="homebenefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="homeapply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="homedocuments">1. Free education
 2. Free facilities of food, shelter, clothing
 
 
@@ -95,6 +154,16 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
+    <string name="marriageapply">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="marriagedocuments">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
     <string name="pensioncategory">
 All category disabled person</string>
     <string name="pensiondesc">Pension scheme</string>
@@ -106,6 +175,40 @@ All category disabled person</string>
         receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
 
 </string>
+    <string name="pensionapply">A disable person in age of 18265 years and having 80% disability is eligible under the schem
+
+        a. He or she is entitled to
+        receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
+
+</string>
+    <string name="pensiondocuments">A disable person in age of 18265 years and having 80% disability is eligible under the schem
+
+        a. He or she is entitled to
+        receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
+
+</string>
+    <string
+        name="financewithlink"><a href="https://www.google.com/">Tap here to open Link</a></string>
+    <string
+        name="financewithlink1"><a href="https://www.instagram.com/">Tap here to open Link</a></string>
+    <string
+        name="loanwithlink"><a href="https://www.matrixscienceacademy.com/">Tap here to open Link</a></string>
+    <string
+        name="educationwithlink"><a href="https://www.youtube.com/">Tap here to open Link</a></string>
+    <string
+        name="educationwithlink1"><a href="https://www.facebook.com/">Tap here to open Link</a></string>
+    <string
+        name="homewithlink"><a href="https://www.youtube.com/watch?v=VuG7ge_8I2Y">Tap here to open Link</a></string>
+    <string
+        name="marriagewithlink"><a href="https://www.youtube.com/watch?v=5rABTHdFm9U">Tap here to open Link</a></string>
+    <string
+        name="pensionwithlink"><a href=" https://www.jiocinema.com/">Tap here to open Link</a></string>
+
+
+
+
+
+
 
 
 </resources>
