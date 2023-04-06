@@ -2,9 +2,9 @@ package com.example.dishas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
+
 import android.os.Bundle;
-import android.view.View;
+
 
 public class aboutus extends AppCompatActivity {
 
@@ -13,6 +13,5 @@ public class aboutus extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aboutus);
     }
-
 
 }
