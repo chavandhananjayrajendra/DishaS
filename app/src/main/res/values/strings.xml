@@ -203,12 +203,22 @@ All category disabled person</string>
         name="marriagewithlink"><a href="https://www.youtube.com/watch?v=5rABTHdFm9U">Tap here to open Link</a></string>
     <string
         name="pensionwithlink"><a href=" https://www.jiocinema.com/">Tap here to open Link</a></string>
+<string name="details">Welcome to our website, where we provide advanced scheme prediction system to help you make informed decisions about your investments. Our team is dedicated to providing accurate, reliable and efficient solutions to help you navigate the complex financial landscape with ease.
+
+Our system is designed to analyze historical data and apply advanced algorithms to provide accurate predictions on future trends in various schemes. This helps our clients make informed decisions about their investments, and avoid potential losses.
+
+Our team is comprised of experts in the field of finance, data science and software engineering. With years of experience and a deep understanding of the financial markets, our team is dedicated to providing the highest quality service to our clients.
+
+At our core, we are driven by a commitment to excellence and a passion for innovation. We are constantly exploring new technologies and techniques to improve our system and provide the best possible service to our clients.</string>
 
 
 
 
+<string name="detailslink">Address:101/61,BDD Chawl,N.G.Bansode Marg,Worli,Mumbai,400018
+    Email:chavandhananjayrajendra@gmail.com
+    Mobile Number:9967210702
 
-
+</string>
 
 
 </resources>
