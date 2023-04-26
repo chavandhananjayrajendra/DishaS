@@ -32,7 +32,7 @@ public class d2 extends AppCompatActivity {
         int[] documents1List={R.string.loandocuments};
         int[] link1List = {R.string.loanwithlink};
 
-        String[] name1List = {"differentloanscheme"};
+        int[] name1List = {R.string.loanname};
 
         for (int i = 0; i < image1List.length; i++){
             listData1 = new ListData(name1List[i],category1List[i],eligibility1List[i],desc1List[i],benefit1List[i],apply1List[i],documents1List[i],link1List[i],image1List[i]);

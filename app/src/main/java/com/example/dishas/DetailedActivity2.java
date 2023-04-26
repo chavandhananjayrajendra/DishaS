@@ -28,7 +28,7 @@ TextView textView2;
         textView2.setMovementMethod(LinkMovementMethod.getInstance());
         Intent intent  = this.getIntent();
         if(intent!= null){
-            String name2 = intent.getStringExtra("name");
+            int name2 = intent.getIntExtra("name",R.string.educationname);
             int category2 = intent.getIntExtra("category",R.string.educationcategory);
             int eligibility2 = intent.getIntExtra("eligibility",R.string.educationeligibility);
             int desc2 = intent.getIntExtra("objective",R.string.educationdesc);

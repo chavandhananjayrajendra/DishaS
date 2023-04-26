@@ -4,16 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_background"
+    android:background="@drawable/gradient_background2"
     android:gravity="center"
     tools:context=".StartActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    >
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:src="@drawable/modi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+
+
+        />
+
 
     <Button
         android:id="@+id/btn1"
         android:layout_width="213dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="98dp"
         android:background="@drawable/custom_button"
 
         android:onClick="btnHome"
@@ -28,10 +41,10 @@
 
     <Button
         android:id="@+id/btn2"
-        android:layout_width="230dp"
-        android:layout_height="50dp"
+        android:layout_width="212dp"
+        android:layout_height="46dp"
         android:layout_below="@id/btn1"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="32dp"
         android:background="@drawable/custom_button"
 
         android:onClick="btnAboutUs"
@@ -44,3 +57,4 @@
 
 
 </LinearLayout>
+

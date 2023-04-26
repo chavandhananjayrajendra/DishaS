@@ -26,7 +26,7 @@ public class DetailedActivity1 extends AppCompatActivity {
 
         Intent intent  = this.getIntent();
         if(intent!= null){
-            String name1 = intent.getStringExtra("name");
+            int name1 = intent.getIntExtra("name",R.string.loanname);
             int category1 = intent.getIntExtra("category",R.string.loancategory);
             int eligibility1 = intent.getIntExtra("eligibility",R.string.loaneligibility);
             int desc1 = intent.getIntExtra("objective",R.string.loandesc);

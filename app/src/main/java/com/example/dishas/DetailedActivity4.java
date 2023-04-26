@@ -26,7 +26,7 @@ TextView textView4;
         textView4.setMovementMethod(LinkMovementMethod.getInstance());
         Intent intent = this.getIntent();
         if (intent != null) {
-            String name4 = intent.getStringExtra("name");
+            int name4 = intent.getIntExtra("name",R.string.marriagename);
             int category4 = intent.getIntExtra("category", R.string.marriagecategory);
             int eligibility4 = intent.getIntExtra("eligibility", R.string.marriageeligibility);
             int desc4 = intent.getIntExtra("objective", R.string.marriagedesc);

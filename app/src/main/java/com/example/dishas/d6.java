@@ -37,7 +37,7 @@ public class d6 extends AppCompatActivity {
         int[] documents5List={R.string.pensiondocuments};
         int[]link5List={R.string.pensionwithlink};
 
-        String[] name5List = {"INDIRAGANDHIPENSIONSCHEME"};
+        int[] name5List = {R.string.pensionnname};
 
         for (int i = 0; i < image5List.length; i++){
             listData5 = new ListData(name5List[i],category5List[i],eligibility5List[i],desc5List[i],benefit5List[i],apply5List[i],documents5List[i],link5List[i],image5List[i]);

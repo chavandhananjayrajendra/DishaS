@@ -2,79 +2,81 @@
     <string name="app_name">dishass</string>
 
     // Financial assistance for disabled person
-
-    <string name="financecategory">Financial Assistance for disabled person
-Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="financeDesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
-    <string name="financeeligibility">1. Applicant should have minimum 40% disability
-2. Applicant should be domicile in Maharashtra
-
-</string>
-    <string name="financebenefits">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="financename">Financial Assistance for disabled person </string>
+    <string name="financecategory">Visually impaired, hearing impaired, orthopedically handicapped</string>
+    <string name="financeDesc">Assistance for purchase of appliances to disabled persons as per their age group and disability she will get married incentive</string>
+    <string name="financeeligibility">1. Monthly income off the applicant should be less than ₹1500
+2. Applicant should have minimum 40% disability
+3. Applicant should be domicile in Maharashtra
 
 
 </string>
-    <string name="financeapply">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="financebenefits">1. Crutches
+2. Tricycle
+3. Callipers
+4. Wheelchair
+</string>
+    <string name="financeapply">Application in prescribed form attach with necessary documents.
+
 
 
 </string>
-    <string name="financedocuments">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="financedocuments">Domicile Certificate,Proof of identity
 
 
 </string>
 
 
     //Financial assistance to self-employed for train disabled person
-    <string name="finance2category">Financial assistance to self-employed for train disabled person
-Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="finance2Desc">SFacilitate purchase of equipment for those disabled person who are completely trend from government institutes to start their own business</string>
-    <string name="finance2eligibility">1. Applicant must complete their vocational training in government institution
-2. Applicant should have minimum 40% disability
-3. Applicant should be domicile in Maharashtra
+    <string name="finance2name">Financial Assistance to Self-Employment for Trained Disabled Persons</string>
+    <string name="finance2category">Visually handicapped, Low vision, hearing impaired, and orthopedically handicapped
+</string>
+    <string name="finance2Desc">Financial assistance to facilitate purchase of equipment for those disable persons who are completing vocational training from government institutions or recognize institution to start their own business</string>
+    <string name="finance2eligibility">1.Application in prescribed format submitted to concern District Social Welfare Office, Zillah Parishad and Assistant Commissioner Social Welfare Office ,Mumbai Urban and Mumbai Suburban
+2.Applicant must completed their vocational training in Government or Government recognized institution
+3.Applicant should have minimum 40% disability.
+3.Applicant should be Domicile in Maharashtra.
+4.Applicant should submit their proposal with proposed project cost.
 
 </string>
-    <string name="finance2benefits">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
+    <string name="finance2benefits">The State Government of Maharashtra has provided financial assistance of Rs. 1000/- for purchase of total kits/ equipments to start their own business .
 
-
-</string>
-    <string name="finance2apply">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
 
 
 </string>
-    <string name="finance2documents">Provides financial assistance of ₹1000 for purchase of total equipment’s to start their own business
-
+    <string name="finance2apply">Application in prescribed format attached with necessary documents
+</string>
+    <string name="finance2documents">Proof of Disability,Domicile Certificate
 
 </string>
 
 
     // Loan Scheme
-
-    <string name="loancategory">Financial Assistance for disabled person
-Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="loandesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="loanname">Term Loan
+/Education Loan
+/Micro Credit Scheme
+/Scheme for NGOs
+/Direct Loan Scheme</string>
+    <string name="loancategory">Physically Disabled
+</string>
+    <string name="loandesc">To undertake, carry on, assist to carry on and promote economic development activities including self employment and other ventures for benefit and economic rehabilitation of handicapped persons regardless of their religion, sex, caste and age, in collaboration with State Government Ministries/Departments, extend financial assistance/loans/concessional finance to handicapped persons for implementing economically and financially viable schemes /projects, to grant loans to the handicapped for pursuing education at graduation and higher levels, to assist in up gradation/ improvement of technical and entrepreneurial skills, to set up training, quality control, process development and other infrastructural development activities aimed to achieve economic rehabilitation/upliftment of handicapped persons, to assist other organizations engaged in rehabilitation of the handicapped by providing financial assistance, to assist businesses run by handicapped persons in procuring raw materials and marketing finished goods and to work as an Apex Institution for the State of Maharashtra for channelizing the funds received from State Finance Corporation or the Central Government</string>
     <string name="loaneligibility">1. Applicant should have minimum 40% disability
 2. Applicant should be domicile in Maharashtra
 
 </string>
-    <string name="loanbenefits">1. Free education
-2. Free facilities of food, shelter, clothing
-
+    <string name="loanbenefits">This Corporation has given Business Loan to Persons with Disabilities (PWDs) in low interest rate.
 
 </string>
-    <string name="loanapply">1. Free education
-2. Free facilities of food, shelter, clothing
-
+    <string name="loanapply">Manually Loan form and Disbursement procedure is in process at District level through OBC corporation and online loan procedure is in process after completion then online loan procedure apply.
 
 </string>
-    <string name="loandocuments">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="loandocuments">ID proof
 
 
 </string>
     //education through government institute
+
+    <string name="educationname">Special education through government institute</string>
     <string name="educationcategory">
 Visually impaired, hearing impaired, orthopedically handicapped</string>
     <string name="educationdesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
@@ -87,20 +89,19 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
-    <string name="educationapply">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="educationapply">go to the application form and fill
 
 
 </string>
-    <string name="educationdocuments">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="educationdocuments">Aadhar Card,Proof of Residence
 
 
 </string>
     //Special school for disabled
+    <string name="education2nname">Special school for disabled</string>
     <string name="education2category">
 Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="education2desc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+    <string name="education2desc">Special education is provided to disabled children below the age of 18 years..</string>
     <string name="education2eligibility">1. Applicant should have minimum 40% disability
 2. Applicant should be domicile in Maharashtra
 
@@ -110,8 +111,7 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
-    <string name="education2apply">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="education2apply">go to the center and fill the required entities with necessary documents
 
 
 </string>
@@ -120,57 +120,94 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
+
+<string name="education3name"> Sahyogi </string>
+    <string name="education3category">Any Category Disabled</string>
+    <string name="education3desc">This scheme aims at setting up Caregiver Cells (CGCs) to provide training and create a skilled
+workforce of caregivers to provide adequate and nurturing care for Person with Disabilities (PwD)
+and their families who require it.It also seeks to provide parents an opportunity to get trained in
+caregiving if they so desire. This scheme will provide a choice of training through two levels of
+courses to allow it to create caregivers suited to work both with families of persons with Disabilities
+(PwDs) and other institutions catering to the needs of the PwDs (NGOs, work centres etc.)..</string>
+    <string name="education3eligibility">
+        Primary Training
+1. Applicant age should be between 18-35 years at the time of applying for the training
+2. The applicant must be minimum 8th standard or equivalent pass
+Advanced Training
+1. Applicant age should be between 18-35 years at the time of applying for the training
+2. The applicant must be:
+¾ Minimum 8th class pass or equivalent and should have completed the primary
+training/previous Sahyogi course/RCI primary training course
+OR
+¾ Minimum 10th class pass or equivalent
+</string>
+    <string name="education3benefits">1. Free education
+2. Free facilities of food, shelter, clothing
+
+
+</string>
+    <string name="education3apply">go to the portal and register yourself and inquire
+
+
+</string>
+    <string name="education3documents">Proof of residence,Valid Identity proof
+
+
+</string>
+    <string name="homename">Homes for intellectually impaired person</string>
     <string name="homecategory">
-Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="homedesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
+Mentally disabled children who are in need of care and protection</string>
+    <string name="homedesc">Provide home to children with disability</string>
     <string name="homeligibility">1. Applicant should have minimum 40% disability
 2. Applicant should be domicile in Maharashtra
 
 </string>
-    <string name="homebenefits">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="homebenefits">Free facility of food shelter and care and protection are provided in these homes
 
 
 </string>
-    <string name="homeapply">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="homeapply">-
 
 
 </string>
-    <string name="homedocuments">1. Free education
-2. Free facilities of food, shelter, clothing
+    <string name="homedocuments">disability proof
 
 
 </string>
-    <string name="marriagecategory">
+    <string name="marriagename">Matrimonialincentives</string>
+    <string name="marriagecategory">1. Either wife or husband of the couple should be disabled
+2. Applicant should have minimum 40% disability
+3. Applicant should be domicile in Maharashtra
+</string>
+    <string name="marriagedesc">.</string>
+    <string name="marriageeligibility">Disable person with at least 40% of disability if getting he/ she get married with non-disabled person he/ she will get marriage incentive
+
+</string>
+    <string name="marriagebenefits">₹50,000 in total
+1. Saving certificate of ₹25,000
+2. ₹20,000 in cash
+3. ₹4500 in form of household utilities
+4. ₹500 to attend marriage program
+
+
+</string>
+    <string name="marriageapply">
+
+
+</string>
+    <string name="marriagedocuments">Age proof
+
+
+</string>
+    <string name="pensionnname">Indira Gandhi National Pension Scheme
 Visually impaired, hearing impaired, orthopedically handicapped</string>
-    <string name="marriagedesc">Special education is provided to disabled children between age group of 6 to 18 years.</string>
-    <string name="marriageeligibility">1. Applicant should have minimum 40% disability
-2. Applicant should be domicile in Maharashtra
-
-</string>
-    <string name="marriagebenefits">1. Free education
-2. Free facilities of food, shelter, clothing
-
-
-</string>
-    <string name="marriageapply">1. Free education
-2. Free facilities of food, shelter, clothing
-
-
-</string>
-    <string name="marriagedocuments">1. Free education
-2. Free facilities of food, shelter, clothing
-
-
-</string>
     <string name="pensioncategory">
 All category disabled person</string>
     <string name="pensiondesc">Pension scheme</string>
     <string name="pensioneligibility">Under the schema ₹600 per month is given to each beneficiary
 </string>
     <string name="pensionbenefits">A disable person in age of 18265 years and having 80% disability is eligible under the schem
-
+        1.Under the schema ₹600 per month is given to each beneficiary
         a. He or she is entitled to
         receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
 
@@ -187,22 +224,25 @@ All category disabled person</string>
         receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
 
 </string>
+
     <string
-        name="financewithlink"><a href="https://www.google.com/">Tap here to open Link</a></string>
+        name="financewithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="financewithlink1"><a href="https://www.instagram.com/">Tap here to open Link</a></string>
+        name="financewithlink1"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="loanwithlink"><a href="https://www.matrixscienceacademy.com/">Tap here to open Link</a></string>
+        name="loanwithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="educationwithlink"><a href="https://www.youtube.com/">Tap here to open Link</a></string>
+        name="educationwithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="educationwithlink1"><a href="https://www.facebook.com/">Tap here to open Link</a></string>
+        name="educationwithlink1"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="homewithlink"><a href="https://www.youtube.com/watch?v=VuG7ge_8I2Y">Tap here to open Link</a></string>
+        name="educationwithlink2"><a href="https://thenationaltrust.gov.in/content/scheme/sahyogi.php">Tap here to open Link</a></string>
     <string
-        name="marriagewithlink"><a href="https://www.youtube.com/watch?v=5rABTHdFm9U">Tap here to open Link</a></string>
+        name="homewithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
     <string
-        name="pensionwithlink"><a href=" https://www.jiocinema.com/">Tap here to open Link</a></string>
+        name="marriagewithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>
+    <string
+        name="pensionwithlink"><a href="https://www.myscheme.gov.in/schemes/igndps">Tap here to open Link</a></string>
 <string name="details">Welcome to our website, where we provide advanced scheme prediction system to help you make informed decisions about your investments. Our team is dedicated to providing accurate, reliable and efficient solutions to help you navigate the complex financial landscape with ease.
 
 Our system is designed to analyze historical data and apply advanced algorithms to provide accurate predictions on future trends in various schemes. This helps our clients make informed decisions about their investments, and avoid potential losses.

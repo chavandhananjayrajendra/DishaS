@@ -25,7 +25,7 @@ TextView textView5;
         textView5.setMovementMethod(LinkMovementMethod.getInstance());
         Intent intent = this.getIntent();
         if (intent != null) {
-            String name5 = intent.getStringExtra("name");
+            int name5 = intent.getIntExtra("name",R.string.pensionnname);
             int category5 = intent.getIntExtra("category", R.string.pensioncategory);
             int eligibility5 = intent.getIntExtra("eligibility", R.string.pensioneligibility);
             int desc5 = intent.getIntExtra("objective", R.string.pensiondesc);

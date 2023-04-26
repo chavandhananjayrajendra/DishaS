@@ -1,9 +1,9 @@
 package com.example.dishas;
 public class ListData {
-    String name;
+    int name;
     int category,desc,eligibility,benefits,apply,documents,link;
     int image;
-    public ListData(String name, int category, int desc, int eligibility, int benefits,int apply,int documents,int link, int image) {
+    public ListData(int name, int category, int desc, int eligibility, int benefits,int apply,int documents,int link, int image) {
         this.name = name;
         this.category = category;
         this.desc = desc;

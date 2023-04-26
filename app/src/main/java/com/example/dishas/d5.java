@@ -38,7 +38,7 @@ public class d5 extends AppCompatActivity {
         int[] documents4List={R.string.marriagedocuments};
         int[] link4List={R.string.marriagewithlink};
 
-        String[] name4List = {"marriage"};
+        int[] name4List = {R.string.marriagename};
 
         for (int i = 0; i < image4List.length; i++){
             listData4 = new ListData(name4List[i],category4List[i],eligibility4List[i],desc4List[i],benefit4List[i],apply4List[i],documents4List[i],link4List[i],image4List[i]);

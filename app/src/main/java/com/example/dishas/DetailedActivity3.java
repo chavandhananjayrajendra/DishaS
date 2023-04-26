@@ -29,14 +29,14 @@ TextView textView3;
         textView3.setMovementMethod(LinkMovementMethod.getInstance());
         Intent intent  = this.getIntent();
         if(intent!= null){
-            String name3 = intent.getStringExtra("name");
+            int name3 = intent.getIntExtra("name",R.string.homename);
             int category3 = intent.getIntExtra("category",R.string.homecategory);
             int eligibility3 = intent.getIntExtra("eligibility",R.string.homeligibility);
             int desc3 = intent.getIntExtra("objective",R.string.homedesc);
             int benefits3 = intent.getIntExtra("benefits",R.string.homebenefits);
             int apply3 = intent.getIntExtra("apply",R.string.homeapply);
-            int documents3 = intent.getIntExtra("documents",R.string.loandocuments);
-            int link3 = intent.getIntExtra("link",R.string.marriagewithlink);
+            int documents3 = intent.getIntExtra("documents",R.string.homedocuments);
+            int link3 = intent.getIntExtra("link",R.string.homewithlink);
             int image3 = intent.getIntExtra("image",R.drawable.shelter);
 
 
