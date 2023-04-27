@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class ListAdapter3 extends ArrayAdapter<ListData> {
     public ListAdapter3(@NonNull Context context, ArrayList<ListData> dataArrayList) {
-        super(context, R.layout.list_item, dataArrayList);
+        super(context, R.layout.list_item2, dataArrayList);
     }
     @NonNull
     @Override

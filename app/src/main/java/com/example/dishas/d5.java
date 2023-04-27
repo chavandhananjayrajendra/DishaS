@@ -31,7 +31,7 @@ public class d5 extends AppCompatActivity {
 
         int[] image4List = {R.drawable.marriage};
         int[] category4List = {R.string.marriagecategory};
-        int[] eligibility4List = {R.string.marriageeligibility};
+        int[] eligibility4List = {R.string.marriageeligibility,};
         int[] desc4List = {R.string.marriagedesc};
         int[] benefit4List ={R.string.marriagebenefits};
         int[] apply4List={R.string.marriageapply};

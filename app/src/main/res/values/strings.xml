@@ -2,6 +2,7 @@
     <string name="app_name">dishass</string>
 
     // Financial assistance for disabled person
+
     <string name="financename">Financial Assistance for disabled person </string>
     <string name="financecategory">Visually impaired, hearing impaired, orthopedically handicapped</string>
     <string name="financeDesc">Assistance for purchase of appliances to disabled persons as per their age group and disability she will get married incentive</string>
@@ -26,8 +27,7 @@
 
 </string>
 
-
-    //Financial assistance to self-employed for train disabled person
+ //
     <string name="finance2name">Financial Assistance to Self-Employment for Trained Disabled Persons</string>
     <string name="finance2category">Visually handicapped, Low vision, hearing impaired, and orthopedically handicapped
 </string>
@@ -37,21 +37,111 @@
 3.Applicant should have minimum 40% disability.
 3.Applicant should be Domicile in Maharashtra.
 4.Applicant should submit their proposal with proposed project cost.
-
 </string>
     <string name="finance2benefits">The State Government of Maharashtra has provided financial assistance of Rs. 1000/- for purchase of total kits/ equipments to start their own business .
-
-
-
 </string>
     <string name="finance2apply">Application in prescribed format attached with necessary documents
 </string>
     <string name="finance2documents">Proof of Disability,Domicile Certificate
+</string>
+
+    // Divyangjan Swavalamban Yojana :
+    <string name="finance3name">Divyangjan Swavalamban Yojana</string>
+    <string name="finance3category">NHFDC provides financial assistance in terms of loan to Persons
+ with Disabilities for starting any activity contributing directly
+ or indirectly in the income generation or helping PwD in their overall process
+of empowerment through implementing agencies throughout the country including West Bengal.
+</string>
+    <string name="finance3Desc">The main objective of the Scheme is to assist the needy disabled persons by providing concessional loan for economic and overall empowerment.</string>
+    <string name="finance3eligibility">Any Indian citizen with 40% or more disability and age above 18 years can apply for loan under NHFDC scheme for self employment.
+The age criteria would not be required for educational loans.
+
+</string>
+    <string name="finance3benefits">NHFDC provides maximum loan upto 50.0 lakh to Persons with disabilities for self-employment activity at the rate of interest 5-9% p.a.
+(A rebate of 1% in interest will be allowed to women with disabilities/persons with disabilities other than OH in self employment loans of upto Rs.50,000/-).
+
+
+
+</string>
+    <string name="finance3apply">Application in the prescribed format is to be submitted to the implementing agency for sanction of loan as per procedure and general terms and conditions as laid down, from time to time, by National Handicapped Finance and Development Corporation.
+Rights of NHFDC : In case of any dispute, decision of the CMD, NHFDC will be final and binding
+Other Terms and Conditions : Other terms and conditions for the Scheme will be as per the guidelines issued by NHFDC for credit based funding schemes.
+</string>
+    <string name="finance3documents">Proof of Disability,Domicile Certificate
+        for more references, visit: nhfdc.nic.in
+</string>
+
+    //
+
+    <string name="finance4name">Vishesh Microfinance Yojana (VMY)  </string>
+    <string name="finance4category">Under this scheme NHFDC provides prompt and need based finance for the target group and activities at reasonable rate of interest through NBFC - MFI, Section-8-MFI, and NGO-MFI, SHG Federations, state Government Missions and other state level \
+
+organizations to pursue small/micro business and development activities.</string>
+    <string name="finance4Desc">To provide prompt and need based finance for the target group and activities at reasonable
+rate of interest through NBFC- MFI, Section-8-MFI, and NGO-MFI, SHG Federations, state
+Government Missions and other state level organizations to pursue small/micro business and
+developmental activities.</string>
+    <string name="finance4eligibility">Eligibility norms as followed by SIDBI or NABARD from time to time, for such categories of
+microfinance lending organizations, would be followed.
+The eligibility norms shall be deliberated and recommended by the Loan Screening
+Committee of the NHFDC based on the prevailing eligibility norms of the SIDBI or NABARD.
+
+
+</string>
+    <string name="finance4benefits">Uniform Interest of 12.50% p.a. be prescribed for all PwDs doing away with gender based
+interest rate.
+Correspondingly, the rate of interest for lending by NHFDC would be 4.50% p.a. with margin
+upto 8.00% for the partner agency.</string>
+    <string name="finance4apply">Application in prescribed form attach with necessary documents.Ref website:
+https://mahabharti.in/yojana/vishesh-microfinance-yojana/
+nhfdc.nic.in
+
+
+
+</string>
+    <string name="finance4documents">Ref website:
+https://mahabharti.in/yojana/vishesh-microfinance-yojana/
+nhfdc.nic.in
+
+
+</string>
+//
+    <string name="financescheme5">Scheme 5 </string>
+    <string name="finance5name">NHFDC Swavalamban Kendra (NSK) </string>
+    <string name="finance5category">Under this scheme NHFDC provides prompt and need based finance for the target group and activities at reasonable rate of interest through NBFC - MFI, Section-8-MFI, and NGO-MFI, SHG Federations, state Government Missions and other state level \
+
+organizations to pursue small/micro business and development activities.</string>
+    <string name="finance5Desc">To provide prompt and need based finance for the target group and activities at reasonable
+rate of interest through NBFC- MFI, Section-8-MFI, and NGO-MFI, SHG Federations, state
+Government Missions and other state level organizations to pursue small/micro business and
+developmental activities.</string>
+    <string name="finance5eligibility">Each NSK is established at a capital cost of around Rs. 12 lakhs by PwD entrepreneurs with the help of 100% financing from NHFDC. These NSKs will be used as mini incubation centers with hands on skilling on the locally relevant and viable businesses to train the PwDs for self-employment opportunities in and around their localities.
+
+
+</string>
+    <string name="finance5benefits">Uniform Interest of 12.50% p.a. be prescribed for all PwDs doing away with gender based
+interest rate.
+Correspondingly, the rate of interest for lending by NHFDC would be 4.50% p.a. with margin
+upto 8.00% for the partner agency.</string>
+    <string name="finance5apply">Application in prescribed form attach with necessary documents.Ref website:
+https://mahabharti.in/yojana//
+nhfdc.nic.in
+
+
+
+</string>
+    <string name="finance5documents">Ref website:
+https://mahabharti.in/yojana/swavalamban-kendra-yojana/
+nhfdc.nic.in
+
 
 </string>
 
 
+
     // Loan Scheme
+    <string name="loanscheme">Scheme 1 </string>
+
     <string name="loanname">Term Loan
 /Education Loan
 /Micro Credit Scheme
@@ -75,6 +165,7 @@
 
 </string>
     //education through government institute
+    <string name="educationscheme">Scheme 1 </string>
 
     <string name="educationname">Special education through government institute</string>
     <string name="educationcategory">
@@ -98,6 +189,8 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 </string>
     //Special school for disabled
+    <string name="educationscheme2">Scheme 2 </string>
+
     <string name="education2nname">Special school for disabled</string>
     <string name="education2category">
 Visually impaired, hearing impaired, orthopedically handicapped</string>
@@ -120,7 +213,8 @@ Visually impaired, hearing impaired, orthopedically handicapped</string>
 
 
 </string>
-
+    <string name="educationscheme3">Scheme 3 </string>
+1
 <string name="education3name"> Sahyogi </string>
     <string name="education3category">Any Category Disabled</string>
     <string name="education3desc">This scheme aims at setting up Caregiver Cells (CGCs) to provide training and create a skilled
@@ -154,6 +248,8 @@ OR
 
 
 </string>
+    <string name="homescheme">Scheme 1 </string>
+
     <string name="homename">Homes for intellectually impaired person</string>
     <string name="homecategory">
 Mentally disabled children who are in need of care and protection</string>
@@ -174,6 +270,9 @@ Mentally disabled children who are in need of care and protection</string>
 
 
 </string>
+
+    <string name="marriagescheme">Scheme 1 </string>
+
     <string name="marriagename">Matrimonialincentives</string>
     <string name="marriagecategory">1. Either wife or husband of the couple should be disabled
 2. Applicant should have minimum 40% disability
@@ -198,7 +297,17 @@ Mentally disabled children who are in need of care and protection</string>
     <string name="marriagedocuments">Age proof
 
 
+
+
+
 </string>
+
+
+    //
+
+
+    <string name="pensionscheme">Scheme 1 </string>
+
     <string name="pensionnname">Indira Gandhi National Pension Scheme
 Visually impaired, hearing impaired, orthopedically handicapped</string>
     <string name="pensioncategory">
@@ -224,6 +333,7 @@ All category disabled person</string>
         receive ₹200 per month under the scheme. He or she also receive ₹400 per month under state sponsored Sanjay Gandhi niradhar anudan yojna
 
 </string>
+
 
     <string
         name="financewithlink"><a href="https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare">Tap here to open Link</a></string>

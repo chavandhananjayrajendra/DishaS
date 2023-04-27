@@ -27,6 +27,7 @@ public class d4 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityD4Binding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
         int[] name3List = {R.string.homename};
         int[] image3List = {R.drawable.shelter};
         int[] category3List = {R.string.homecategory};

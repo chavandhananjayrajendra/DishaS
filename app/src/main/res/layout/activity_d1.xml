@@ -16,6 +16,7 @@
             android:layout_height="match_parent"
             android:divider="@android:color/transparent"
             android:dividerHeight="10.0sp"
+            android:layout_marginTop="32dp"
 
             android:scrollbars="vertical"
             tools:layout_editor_absoluteX="0dp"

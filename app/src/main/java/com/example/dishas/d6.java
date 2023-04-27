@@ -27,7 +27,6 @@ public class d6 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityD6Binding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-
         int[] image5List = {R.drawable.pension};
         int[] category5List = {R.string.pensioncategory};
         int[] eligibility5List = {R.string.pensioneligibility};
@@ -50,6 +49,7 @@ public class d6 extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(d6.this, DetailedActivity5.class);
+
                 intent.putExtra("name", name5List[i]);
                 intent.putExtra("category",category5List[i]);
                 intent.putExtra("eligibility",eligibility5List[i]);
